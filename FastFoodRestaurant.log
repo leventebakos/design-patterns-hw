@@ -1,0 +1,2 @@
+16:39:55.873 DEBUG c.e.d.f.FastFoodRestaurant - App started
+16:39:55.877 DEBUG c.e.d.f.p.ProductFactory - Created new com.epam.designpatterns.fastfoodhomework.products.Chips instance.
