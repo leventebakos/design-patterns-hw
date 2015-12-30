@@ -7,12 +7,12 @@ public class ProductFactory {
 
     private static final Logger logger = LoggerFactory.getLogger(ProductFactory.class.getName());
 
-    public Product getProduct(Products product) {
+    public Product getProduct(Products product, int happiness) {
         Product ret = null;
         if (product == Products.HOTDOG) {
-            ret = new HotDog();
+            ret = new HotDog(happiness);
         } else if (product == Products.CHIPS) {
-            ret = new Chips();
+            ret = new Chips(happiness);
         }
         logger.debug("Created new " + ret.getClass().getName() + " instance.");
         return ret;

@@ -1,2 +1,12 @@
 16:39:55.873 DEBUG c.e.d.f.FastFoodRestaurant - App started
 16:39:55.877 DEBUG c.e.d.f.p.ProductFactory - Created new com.epam.designpatterns.fastfoodhomework.products.Chips instance.
+14:30:52.429 DEBUG c.e.d.f.p.ProductFactory - Created new com.epam.designpatterns.fastfoodhomework.products.Chips instance.
+14:38:43.578 DEBUG c.e.d.f.p.ProductFactory - Created new com.epam.designpatterns.fastfoodhomework.products.Chips instance.
+14:38:43.593 DEBUG c.e.d.f.p.ProductFactory - Created new com.epam.designpatterns.fastfoodhomework.products.Chips instance.
+14:39:47.555 DEBUG c.e.d.f.p.ProductFactory - Created new com.epam.designpatterns.fastfoodhomework.products.Chips instance.
+14:39:47.555 DEBUG c.e.d.f.p.ProductFactory - Created new com.epam.designpatterns.fastfoodhomework.products.Chips instance.
+14:40:03.447 DEBUG c.e.d.f.p.ProductFactory - Created new com.epam.designpatterns.fastfoodhomework.products.Chips instance.
+14:40:03.447 DEBUG c.e.d.f.p.ProductFactory - Created new com.epam.designpatterns.fastfoodhomework.products.Chips instance.
+14:41:00.755 DEBUG c.e.d.f.p.ProductFactory - Created new com.epam.designpatterns.fastfoodhomework.products.Chips instance.
+14:41:00.771 DEBUG c.e.d.f.p.ProductFactory - Created new com.epam.designpatterns.fastfoodhomework.products.Chips instance.
+14:41:00.771 DEBUG c.e.d.f.p.ProductFactory - Created new com.epam.designpatterns.fastfoodhomework.products.Chips instance.
